@@ -30,7 +30,7 @@
      * Gets the size of the shapes area
      * @return the size of the shapes area
      */
-    abstract public int getArea();
+    abstract public double getArea();
     /**
      * Constructor.
      * @param sides the number of sides within the shape
