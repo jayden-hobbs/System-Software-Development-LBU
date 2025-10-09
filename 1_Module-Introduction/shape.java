@@ -26,6 +26,10 @@
     public void setSides(int sides) {
         this.sides = sides; // use this.sides to distinguish between parameter and attribute
     }
+    /** 
+     * @param sides
+     * @return double
+     */
     /**
      * Gets the size of the shapes area
      * @return the size of the shapes area
